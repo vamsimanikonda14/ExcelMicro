@@ -1,0 +1,11 @@
+{
+    "NK_EM_ITEM_INFO" : "/ExcelMacrosModeler/ExcelMacroService/getObjectsDetails/",
+    "NK_EM_MBOM_ITEMS": "/ExcelMacrosModeler/ExcelMacroService/getEBOMObjChilds/",
+    "NK_EM_MBOM_UPDATE_REL_ATTRIBUTE": "/ExcelMacrosModeler/ExcelMacroService/updateRelAttribute/",
+    "NK_EM_MBOM_UPDATE_OBJ_ATTRIBUTE": "/ExcelMacrosModeler/ExcelMacroService/updateObjAttribute/",
+    "NK_EM_EBOM_CREATESEMIFINSHEDPRODUCT":"/ExcelMacrosModeler/ExcelMacroService/createSemiFinishedProduct/",
+    "NK_EM_CHECK_MACRO" : "/ExcelMacrosModeler/ExcelMacroService/checkPageFileExist/",
+    "NK_EM_CHECK_MACRO_Azure" : "/ExcelMacrosModeler/ExcelMacroService/callPPAzureService"
+
+}
+

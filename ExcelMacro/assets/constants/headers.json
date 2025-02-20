@@ -1,0 +1,36 @@
+[
+  {
+    "field": "attribute[PLMEntity.V_Name]",
+    "header": "Name",
+    "editable": false,
+    "cellEditable": false,
+    "input": {
+      "type": "text"
+    },
+    "pinned":"true",
+    "width": "240px"
+  },
+  {
+    "field": "type",
+    "header": "Type",
+    "editable": false,
+    "cellEditable": false,
+    "input": {
+      "type": "text"
+    },
+    "pinned":"true",
+    "width": "100px"
+  },
+  {
+    "field": "revision",
+    "header": "Revision",
+    "editable": false,
+    "cellEditable": false,
+    "input": {
+      "type": "text"
+    },
+    "width": "100px"
+  }
+  
+ 
+]

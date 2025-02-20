@@ -1,0 +1,60 @@
+{
+	"EBOMForBOSS": {
+		"EDIT_HALF_PRODUCT": {
+			"EDIT_HALF_PRODUCT_REGEX": [
+				{
+					"S_ATTRIBUTE": "EnterpriseExtension.V_PartNumber",
+					"S_REGEX": "^619\\d-\\d{6}$"
+				},
+				{
+					"S_ATTRIBUTE": "EnterpriseExtension.V_PartNumber",
+					"S_REGEX": "^629\\d-\\d{6}$"
+				},
+				{
+					"S_ATTRIBUTE": "EnterpriseExtension.V_PartNumber",
+					"S_REGEX": "^639\\d-\\d{6}$"
+				},
+				{
+					"S_ATTRIBUTE": "EnterpriseExtension.V_PartNumber",
+					"S_REGEX": "^649\\d-\\d{6}$"
+				},
+				{
+					"S_ATTRIBUTE": "EnterpriseExtension.V_PartNumber",
+					"S_REGEX": "^0049-\\d{6}$"
+				},
+				{
+					"S_ATTRIBUTE": "EXT_EBOM_PARTS.NK_MATERIALS_FORM_CLASSIFICATION",
+					"S_REGEX": "3"
+				},
+				{
+					"S_ATTRIBUTE": "EXT_EBOM_PARTS.NK_MATERIALS_FORM_CLASSIFICATION",
+					"S_REGEX": "4"
+				}
+			]
+		},
+		"HANNARI_INIT_VALUE_LIST": {
+			"HANNARI_INIT_VALUE": [
+				{
+					"S_ATTRIBUTE": "EXT_EBOM_PLANT_COMMON.NK_PHARMACEUTICAL_PARTS_CORD",
+					"S_COPY": "TRUE"
+				},
+				{
+					"S_ATTRIBUTE": "EXT_EBOM_BASE.NK_KNOWLEDGE_CATEGORY",
+					"S_VALUE": ""
+				},
+				{
+					"S_ATTRIBUTE": "EXT_MBOM_PLANT_CASE.NK_MATERIAL_TYPE",
+					"S_VALUE": "2"
+				},
+				{
+					"S_ATTRIBUTE": "EXT_EBOM_PLANT_COMMON.NK_TYPE_PRODUCT",
+					"S_VALUE": "2"
+				},
+				{
+					"S_ATTRIBUTE": "EXT_EBOM_PLANT_COMMON.NK_TRACE_TYPE",
+					"S_VALUE": "Y"
+				}
+			]
+		}
+	}
+}

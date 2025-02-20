@@ -1,0 +1,22 @@
+{
+  "DROP_IMAGE_PATH": "/3dspace/webapps/MacroExcel/assets/images/drop.PNG",
+  "STATE_IN_WORK": "IN_WORK",
+  "Allowed_TYPE": "VPMReference,CreateAssembly,Provide,Document",
+  "POST": "POST",
+  "GET": "GET",
+  "PRODUCT_NAME":"ProductName",
+  "langPreferences": [
+    {
+      "label": "English",
+      "value": "en"
+    },
+    {
+      "label": "Japanese",
+      "value": "ja"
+    },
+    {
+      "label": "Chinese",
+      "value": "zh"
+    }
+  ]
+}
